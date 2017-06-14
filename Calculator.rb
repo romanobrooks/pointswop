@@ -13,16 +13,16 @@ while (value !='m' && value !='d' && value !='a' and value !='s' )
     end
 
 puts "Ente Bigger Value"
-value1=gets.to_i
+value1=gets.to_f
 puts "Ente Smaller Value"
-value2=gets.to_i
+value2=gets.to_f
 
 while value1 <value2
   begin
     puts "Ente Bigger Value"
-    value1=gets.to_i
+    value1=gets.to_f
     puts "Ente Smaller Value"
-    value2=gets.to_i
+    value2=gets.to_f
   end
 end
 
