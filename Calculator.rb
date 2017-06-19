@@ -45,4 +45,4 @@ elsif (value =='s' )
 else puts  "nothing"
 end
 )
-print "This is your answer #{calculation}"
+print "#{calculation} is your answer"
