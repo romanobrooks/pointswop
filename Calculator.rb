@@ -26,7 +26,6 @@ while value1 <value2
   end
 end
 
-puts "Answer is"
 calculation=(
 if (value =='m' )
   then
@@ -46,4 +45,4 @@ elsif (value =='s' )
 else puts  "nothing"
 end
 )
-print calculation
+print "This is your answer #{calculation}"
